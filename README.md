@@ -41,5 +41,6 @@ The **Clinic Booking System** is a MySQL-based relational database designed to m
     SHOW TABLES;
 
 **ERD Diagram**
+![image](https://github.com/user-attachments/assets/5e6319c2-948d-4f21-a9b9-9b7b845a62ef)
 
 
