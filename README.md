@@ -7,7 +7,8 @@ The **Clinic Booking System** is a MySQL-based relational database designed to m
 ### 🔑 Key Features
 
 - Patient registration and information storage  
-- Doctor management with support for multiple specialties  
+- Doctor management with support for multiple specialties
+- Services OFfered in the clinic
 - Appointment booking between patients and doctors  
 - Prescriptions records tied to specific appointments  
 - Relational integrity and normalized data structure
